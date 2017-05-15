@@ -1,0 +1,27 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "konverter walutowy",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "komenda testowa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthovv/Zadanie-1---Converter.git"
+  },
+  "keywords": [
+    "klucz"
+  ],
+  "author": "Artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthovv/Zadanie-1---Converter/issues"
+  },
+  "homepage": "https://github.com/arthovv/Zadanie-1---Converter#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
