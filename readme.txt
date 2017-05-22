@@ -9,8 +9,5 @@ Założenia:
 Nie musimy walidować poprawności liczby wpisywanej przez użytkownika (zakładamy, że zrobimy to w przyszłości) Konwersje nie zapisują się. Po odświeżeniu strony widzimy ponownie pustą listę. Użytkownik może wykonać nieskończoną liczbę konwersji. Każda kolejna konwersja dodaje kolejny kafel. Gotową aplikację wypchnijmy do tego repozytorium git
 
 Dodatkowe punkty za:
-
 składnie ES6 zadbanie o integralność z różnymi przeglądarkami prosty server w node.js lub użycie webpacka
-
-
 https://arthovv.github.io/Zadanie-1---Converter/
