@@ -12,6 +12,5 @@ Dodatkowe punkty za:
 
 składnie ES6 zadbanie o integralność z różnymi przeglądarkami prosty server w node.js lub użycie webpacka
 
-Dodatkowe informacje oczekiwane po wykonaniu zadania:
 
-ile czasu było potrzebne łącznie na wykonanie zadania co sprawiło Ci największą trudność
+https://arthovv.github.io/Zadanie-1---Converter/
